@@ -9,7 +9,7 @@
 
 	<g font-family="'Droid Sans'" font-size="4" text-anchor="middle" fill="#000000" stroke="none" stroke-width="0" stroke-linecap="round">
 		<text x="36.2835" y="27">WeMos D1 mini</text>
-		<text x="36.2835" y="34">OLED Shield</text>
+		<text x="36.2835" y="34">Micro SD Shield</text>
 	</g>
 
 	<g transform="translate(0.2835 0)">

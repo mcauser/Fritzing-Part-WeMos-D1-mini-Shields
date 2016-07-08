@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 72.567 80.267" width="2.56cm" height="2.83cm" xml:space="preserve">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 72.567 80.267" width="2.56cm" height="2.83cm" xml:space="preserve">
 <g id="breadboard">
 	<g id="icon">
 
@@ -8,6 +9,36 @@
 		</g>
 
 		<g transform="translate(0.2835 0)">
+
+			<g class="silkscreen">
+				<g class="droid-sans-76527a-p16-10" fill="#EEEEEE" transform="translate(7.5 60.2)">
+					<g>
+						<path d="M1.094,2.979c0,0.064-0.01,0.127-0.03,0.187c-0.021,0.061-0.054,0.113-0.1,0.159S0.856,3.407,0.78,3.436C0.704,3.463,0.61,3.477,0.499,3.477H0.333v0.607H0.128V2.522h0.399c0.099,0,0.184,0.01,0.255,0.03s0.13,0.05,0.176,0.089s0.081,0.087,0.103,0.144S1.094,2.907,1.094,2.979z M0.333,3.308h0.142c0.068,0,0.128-0.006,0.179-0.018c0.051-0.011,0.093-0.029,0.127-0.055C0.814,3.21,0.84,3.178,0.856,3.137c0.017-0.04,0.025-0.089,0.025-0.146c0-0.102-0.03-0.176-0.09-0.225c-0.06-0.049-0.154-0.073-0.282-0.073H0.333V3.308z"/>
+						<path d="M1.993,4.084H1.799V3.108c0-0.03,0-0.063,0-0.098c0-0.035,0.001-0.07,0.002-0.104c0.001-0.034,0.002-0.067,0.003-0.1c0.001-0.031,0.002-0.06,0.003-0.084C1.795,2.736,1.785,2.747,1.775,2.756c-0.01,0.01-0.019,0.019-0.029,0.027c-0.01,0.008-0.021,0.018-0.031,0.027C1.703,2.819,1.69,2.831,1.675,2.844L1.512,2.973L1.406,2.842l0.422-0.319h0.166V4.084z"/>
+						<path d="M2.577,3.416c0-0.074,0.004-0.148,0.012-0.223S2.61,3.048,2.629,2.98c0.02-0.068,0.046-0.132,0.08-0.19c0.034-0.058,0.077-0.108,0.129-0.151c0.052-0.044,0.115-0.077,0.188-0.102C3.099,2.512,3.184,2.5,3.282,2.5c0.014,0,0.029,0,0.046,0.001c0.017,0.001,0.034,0.002,0.051,0.004c0.018,0.002,0.034,0.004,0.05,0.006c0.016,0.003,0.03,0.006,0.042,0.01v0.165C3.445,2.677,3.417,2.671,3.384,2.667C3.352,2.662,3.32,2.66,3.288,2.66c-0.066,0-0.125,0.008-0.175,0.022C3.063,2.698,3.02,2.72,2.983,2.748C2.946,2.775,2.916,2.809,2.891,2.847c-0.024,0.039-0.044,0.081-0.06,0.128C2.815,3.021,2.804,3.071,2.796,3.124S2.784,3.231,2.782,3.288h0.013c0.015-0.025,0.033-0.05,0.054-0.072C2.87,3.193,2.894,3.175,2.922,3.158C2.95,3.143,2.981,3.13,3.017,3.12C3.051,3.111,3.09,3.106,3.134,3.106c0.07,0,0.133,0.011,0.189,0.031C3.38,3.159,3.428,3.189,3.468,3.23S3.538,3.32,3.56,3.38c0.021,0.059,0.032,0.126,0.032,0.201c0,0.081-0.011,0.154-0.034,0.219S3.502,3.92,3.46,3.965s-0.094,0.08-0.154,0.104c-0.06,0.023-0.128,0.036-0.203,0.036c-0.074,0-0.143-0.014-0.207-0.042c-0.064-0.027-0.12-0.07-0.167-0.127C2.682,3.88,2.645,3.808,2.618,3.722C2.591,3.636,2.577,3.534,2.577,3.416z M3.101,3.942c0.044,0,0.084-0.008,0.121-0.022c0.036-0.015,0.067-0.036,0.094-0.066c0.026-0.029,0.046-0.066,0.061-0.112c0.014-0.045,0.021-0.099,0.021-0.16c0-0.05-0.006-0.095-0.018-0.134C3.368,3.407,3.35,3.374,3.326,3.346C3.301,3.318,3.271,3.297,3.235,3.282C3.198,3.267,3.156,3.26,3.107,3.26c-0.049,0-0.094,0.008-0.135,0.024C2.932,3.301,2.897,3.323,2.868,3.35S2.817,3.407,2.801,3.441C2.786,3.476,2.778,3.51,2.778,3.544c0,0.047,0.007,0.095,0.021,0.143c0.014,0.047,0.034,0.09,0.061,0.127c0.027,0.038,0.061,0.068,0.101,0.093C3,3.93,3.047,3.942,3.101,3.942z"/>
+						<path d="M3.786,3.587V3.408h0.547v0.179H3.786z"/>
+						<path d="M5.206,4.084H5.012V3.108c0-0.03,0-0.063,0-0.098c0-0.035,0.001-0.07,0.002-0.104c0.001-0.034,0.002-0.067,0.003-0.1c0.001-0.031,0.002-0.06,0.003-0.084C5.008,2.736,4.998,2.747,4.988,2.756c-0.01,0.01-0.019,0.019-0.029,0.027c-0.01,0.008-0.021,0.018-0.031,0.027c-0.011,0.009-0.024,0.021-0.04,0.033L4.725,2.973L4.619,2.842l0.422-0.319h0.166V4.084z"/>
+						<path d="M6.803,3.301c0,0.126-0.01,0.239-0.028,0.339s-0.049,0.184-0.09,0.253S6.589,4.015,6.524,4.051C6.459,4.087,6.379,4.105,6.286,4.105c-0.087,0-0.162-0.019-0.227-0.055S5.942,3.962,5.9,3.893C5.857,3.823,5.826,3.739,5.805,3.64c-0.021-0.1-0.032-0.213-0.032-0.339s0.009-0.238,0.028-0.339C5.82,2.862,5.85,2.778,5.891,2.71C5.932,2.641,5.985,2.589,6.05,2.552c0.065-0.036,0.144-0.054,0.236-0.054c0.087,0,0.164,0.018,0.228,0.054C6.579,2.588,6.632,2.64,6.675,2.709C6.718,2.777,6.75,2.861,6.771,2.961S6.803,3.174,6.803,3.301z M5.978,3.301c0,0.107,0.005,0.2,0.017,0.28C6.005,3.66,6.022,3.727,6.047,3.78c0.024,0.053,0.056,0.093,0.095,0.119c0.04,0.027,0.087,0.04,0.144,0.04S6.391,3.927,6.431,3.9c0.04-0.026,0.072-0.066,0.097-0.119s0.044-0.119,0.055-0.199C6.595,3.502,6.6,3.408,6.6,3.301c0-0.106-0.005-0.2-0.017-0.279c-0.011-0.08-0.03-0.146-0.055-0.199S6.47,2.73,6.431,2.704c-0.04-0.026-0.088-0.04-0.145-0.04s-0.104,0.014-0.144,0.04C6.103,2.73,6.071,2.77,6.047,2.822S6.005,2.941,5.994,3.021C5.983,3.101,5.978,3.194,5.978,3.301z"/>
+					</g>
+					<g>
+						<path d="M0.194,1.584l0.572-1.385H0V0.022h0.956v0.155L0.392,1.584H0.194z"/>
+						<path d="M1.17,0.916c0-0.074,0.004-0.148,0.011-0.223c0.007-0.074,0.02-0.146,0.038-0.213c0.018-0.068,0.042-0.132,0.074-0.19c0.031-0.058,0.071-0.108,0.119-0.151c0.048-0.043,0.105-0.077,0.173-0.102C1.651,0.013,1.73,0,1.82,0c0.013,0,0.027,0,0.042,0.001S1.894,0.003,1.91,0.005s0.031,0.004,0.046,0.006c0.014,0.003,0.027,0.006,0.039,0.01v0.165C1.971,0.178,1.944,0.171,1.915,0.167C1.885,0.162,1.855,0.16,1.826,0.16c-0.061,0-0.115,0.008-0.161,0.023C1.619,0.198,1.579,0.22,1.544,0.248C1.511,0.275,1.482,0.309,1.46,0.347C1.437,0.386,1.418,0.428,1.404,0.475S1.379,0.571,1.373,0.624C1.366,0.677,1.362,0.731,1.36,0.788h0.012c0.013-0.025,0.03-0.05,0.049-0.072c0.02-0.022,0.042-0.041,0.068-0.058C1.515,0.643,1.543,0.63,1.576,0.62c0.032-0.009,0.068-0.014,0.108-0.014c0.064,0,0.123,0.011,0.175,0.031C1.911,0.659,1.956,0.69,1.992,0.73C2.028,0.771,2.057,0.821,2.077,0.88s0.03,0.126,0.03,0.201c0,0.081-0.011,0.154-0.032,0.219s-0.051,0.12-0.09,0.165c-0.04,0.045-0.087,0.08-0.143,0.104C1.787,1.593,1.725,1.605,1.655,1.605c-0.067,0-0.131-0.014-0.19-0.042c-0.059-0.027-0.111-0.07-0.154-0.127C1.268,1.38,1.233,1.308,1.208,1.222C1.183,1.136,1.17,1.034,1.17,0.916z M1.653,1.442c0.041,0,0.078-0.008,0.111-0.022c0.034-0.015,0.062-0.036,0.087-0.066c0.024-0.029,0.043-0.066,0.057-0.112c0.013-0.045,0.02-0.099,0.02-0.16c0-0.05-0.005-0.095-0.017-0.134C1.9,0.907,1.883,0.874,1.861,0.846c-0.022-0.027-0.05-0.049-0.084-0.063C1.743,0.767,1.704,0.76,1.66,0.76c-0.045,0-0.087,0.008-0.125,0.024S1.465,0.823,1.439,0.85S1.392,0.907,1.377,0.941S1.355,1.01,1.355,1.044c0,0.047,0.006,0.095,0.019,0.143c0.012,0.047,0.031,0.09,0.056,0.127c0.025,0.038,0.056,0.068,0.093,0.093C1.561,1.43,1.604,1.442,1.653,1.442z"/>
+						<path d="M2.756,0.626c0.067,0,0.129,0.01,0.188,0.029s0.108,0.049,0.151,0.087c0.043,0.039,0.077,0.086,0.101,0.144c0.024,0.057,0.037,0.122,0.037,0.197c0,0.081-0.011,0.154-0.035,0.219c-0.023,0.065-0.057,0.12-0.103,0.165S2.994,1.546,2.928,1.569c-0.067,0.024-0.144,0.036-0.23,0.036c-0.035,0-0.069-0.002-0.102-0.006C2.562,1.597,2.529,1.591,2.499,1.585c-0.031-0.007-0.06-0.016-0.088-0.026S2.358,1.535,2.335,1.521V1.337c0.022,0.017,0.048,0.031,0.079,0.044s0.062,0.023,0.095,0.032s0.066,0.016,0.1,0.02c0.034,0.005,0.064,0.007,0.093,0.007c0.054,0,0.102-0.006,0.144-0.02c0.042-0.013,0.078-0.033,0.107-0.062C2.981,1.331,3.004,1.296,3.02,1.254s0.023-0.092,0.023-0.149c0-0.102-0.03-0.18-0.089-0.233C2.894,0.817,2.807,0.79,2.693,0.79c-0.019,0-0.038,0.001-0.06,0.003S2.591,0.797,2.57,0.8C2.548,0.803,2.528,0.806,2.509,0.809c-0.02,0.004-0.036,0.007-0.05,0.01L2.367,0.757l0.056-0.734h0.701v0.177H2.583l-0.04,0.448c0.021-0.005,0.05-0.009,0.085-0.014C2.665,0.628,2.708,0.626,2.756,0.626z"/>
+						<path d="M4.374,1.584H3.447V1.417l0.356-0.406C3.854,0.953,3.899,0.9,3.939,0.853c0.04-0.048,0.074-0.095,0.102-0.14C4.069,0.667,4.09,0.621,4.105,0.575s0.022-0.096,0.022-0.15c0-0.042-0.006-0.079-0.018-0.11c-0.011-0.032-0.028-0.06-0.049-0.082C4.04,0.21,4.015,0.193,3.985,0.182C3.957,0.17,3.924,0.164,3.888,0.164c-0.064,0-0.122,0.014-0.174,0.042C3.662,0.233,3.612,0.268,3.565,0.311L3.462,0.184c0.027-0.025,0.056-0.05,0.087-0.072S3.614,0.069,3.65,0.054c0.036-0.017,0.074-0.029,0.114-0.039C3.804,0.005,3.846,0,3.89,0c0.065,0,0.124,0.01,0.176,0.029C4.119,0.048,4.164,0.075,4.2,0.111s0.065,0.08,0.085,0.132c0.02,0.052,0.03,0.109,0.03,0.175c0,0.061-0.009,0.118-0.027,0.173S4.245,0.699,4.214,0.753C4.182,0.806,4.145,0.858,4.101,0.912C4.057,0.966,4.01,1.021,3.959,1.079L3.673,1.398v0.008h0.701V1.584z"/>
+						<path d="M4.781,1.584l0.572-1.385H4.587V0.022h0.956v0.155L4.979,1.584H4.781z"/>
+						<path d="M6.715,1.584L6.552,1.101H5.999L5.833,1.584H5.643l0.546-1.568h0.173l0.547,1.568H6.715z M6.493,0.924L6.342,0.471C6.338,0.458,6.333,0.442,6.327,0.424S6.315,0.386,6.31,0.364C6.303,0.343,6.297,0.32,6.291,0.298C6.285,0.274,6.279,0.252,6.274,0.229c-0.005,0.022-0.01,0.045-0.016,0.068C6.251,0.321,6.246,0.344,6.239,0.366c-0.006,0.021-0.012,0.041-0.018,0.06C6.216,0.443,6.211,0.459,6.207,0.471L6.06,0.924H6.493z"/>
+					</g>
+				</g>
+
+				<g class="bottom-right-dot" stroke-width="0" transform="translate(67.8 60.7)">
+					<circle cx="0.8" cy="0.8" r="1.6" fill="#EEEEEE"/>
+				</g>
+
+				<g class="separator-lines" fill="none" stroke="#EEEEEE" stroke-width="0.5" stroke-miterlimit="10">
+					<polyline points="14.511,57.605 21.511,57.605 21.511,0.605 14.511,0.605"/>
+					<polyline points="57.390,0.605 50.390,0.605 50.390,57.605 57.390,57.605"/>
+				</g>
+			</g>
 
 			<g class="labels" fill="none" stroke="#EEEEEE" stroke-width="0.4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10">
 				<g class="left-labels" transform="translate(8.5 0.3)">
@@ -64,152 +95,123 @@
 				</g>
 			</g>
 
-			<g class="droid-sans-76527a-p16-10" fill="#EEEEEE" transform="translate(7.5 60.2)">
-				<g>
-					<path d="M1.094,2.979c0,0.064-0.01,0.127-0.03,0.187c-0.021,0.061-0.054,0.113-0.1,0.159S0.856,3.407,0.78,3.436C0.704,3.463,0.61,3.477,0.499,3.477H0.333v0.607H0.128V2.522h0.399c0.099,0,0.184,0.01,0.255,0.03s0.13,0.05,0.176,0.089s0.081,0.087,0.103,0.144S1.094,2.907,1.094,2.979z M0.333,3.308h0.142c0.068,0,0.128-0.006,0.179-0.018c0.051-0.011,0.093-0.029,0.127-0.055C0.814,3.21,0.84,3.178,0.856,3.137c0.017-0.04,0.025-0.089,0.025-0.146c0-0.102-0.03-0.176-0.09-0.225c-0.06-0.049-0.154-0.073-0.282-0.073H0.333V3.308z"/>
-					<path d="M1.993,4.084H1.799V3.108c0-0.03,0-0.063,0-0.098c0-0.035,0.001-0.07,0.002-0.104c0.001-0.034,0.002-0.067,0.003-0.1c0.001-0.031,0.002-0.06,0.003-0.084C1.795,2.736,1.785,2.747,1.775,2.756c-0.01,0.01-0.019,0.019-0.029,0.027c-0.01,0.008-0.021,0.018-0.031,0.027C1.703,2.819,1.69,2.831,1.675,2.844L1.512,2.973L1.406,2.842l0.422-0.319h0.166V4.084z"/>
-					<path d="M2.577,3.416c0-0.074,0.004-0.148,0.012-0.223S2.61,3.048,2.629,2.98c0.02-0.068,0.046-0.132,0.08-0.19c0.034-0.058,0.077-0.108,0.129-0.151c0.052-0.044,0.115-0.077,0.188-0.102C3.099,2.512,3.184,2.5,3.282,2.5c0.014,0,0.029,0,0.046,0.001c0.017,0.001,0.034,0.002,0.051,0.004c0.018,0.002,0.034,0.004,0.05,0.006c0.016,0.003,0.03,0.006,0.042,0.01v0.165C3.445,2.677,3.417,2.671,3.384,2.667C3.352,2.662,3.32,2.66,3.288,2.66c-0.066,0-0.125,0.008-0.175,0.022C3.063,2.698,3.02,2.72,2.983,2.748C2.946,2.775,2.916,2.809,2.891,2.847c-0.024,0.039-0.044,0.081-0.06,0.128C2.815,3.021,2.804,3.071,2.796,3.124S2.784,3.231,2.782,3.288h0.013c0.015-0.025,0.033-0.05,0.054-0.072C2.87,3.193,2.894,3.175,2.922,3.158C2.95,3.143,2.981,3.13,3.017,3.12C3.051,3.111,3.09,3.106,3.134,3.106c0.07,0,0.133,0.011,0.189,0.031C3.38,3.159,3.428,3.189,3.468,3.23S3.538,3.32,3.56,3.38c0.021,0.059,0.032,0.126,0.032,0.201c0,0.081-0.011,0.154-0.034,0.219S3.502,3.92,3.46,3.965s-0.094,0.08-0.154,0.104c-0.06,0.023-0.128,0.036-0.203,0.036c-0.074,0-0.143-0.014-0.207-0.042c-0.064-0.027-0.12-0.07-0.167-0.127C2.682,3.88,2.645,3.808,2.618,3.722C2.591,3.636,2.577,3.534,2.577,3.416z M3.101,3.942c0.044,0,0.084-0.008,0.121-0.022c0.036-0.015,0.067-0.036,0.094-0.066c0.026-0.029,0.046-0.066,0.061-0.112c0.014-0.045,0.021-0.099,0.021-0.16c0-0.05-0.006-0.095-0.018-0.134C3.368,3.407,3.35,3.374,3.326,3.346C3.301,3.318,3.271,3.297,3.235,3.282C3.198,3.267,3.156,3.26,3.107,3.26c-0.049,0-0.094,0.008-0.135,0.024C2.932,3.301,2.897,3.323,2.868,3.35S2.817,3.407,2.801,3.441C2.786,3.476,2.778,3.51,2.778,3.544c0,0.047,0.007,0.095,0.021,0.143c0.014,0.047,0.034,0.09,0.061,0.127c0.027,0.038,0.061,0.068,0.101,0.093C3,3.93,3.047,3.942,3.101,3.942z"/>
-					<path d="M3.786,3.587V3.408h0.547v0.179H3.786z"/>
-					<path d="M5.206,4.084H5.012V3.108c0-0.03,0-0.063,0-0.098c0-0.035,0.001-0.07,0.002-0.104c0.001-0.034,0.002-0.067,0.003-0.1c0.001-0.031,0.002-0.06,0.003-0.084C5.008,2.736,4.998,2.747,4.988,2.756c-0.01,0.01-0.019,0.019-0.029,0.027c-0.01,0.008-0.021,0.018-0.031,0.027c-0.011,0.009-0.024,0.021-0.04,0.033L4.725,2.973L4.619,2.842l0.422-0.319h0.166V4.084z"/>
-					<path d="M6.803,3.301c0,0.126-0.01,0.239-0.028,0.339s-0.049,0.184-0.09,0.253S6.589,4.015,6.524,4.051C6.459,4.087,6.379,4.105,6.286,4.105c-0.087,0-0.162-0.019-0.227-0.055S5.942,3.962,5.9,3.893C5.857,3.823,5.826,3.739,5.805,3.64c-0.021-0.1-0.032-0.213-0.032-0.339s0.009-0.238,0.028-0.339C5.82,2.862,5.85,2.778,5.891,2.71C5.932,2.641,5.985,2.589,6.05,2.552c0.065-0.036,0.144-0.054,0.236-0.054c0.087,0,0.164,0.018,0.228,0.054C6.579,2.588,6.632,2.64,6.675,2.709C6.718,2.777,6.75,2.861,6.771,2.961S6.803,3.174,6.803,3.301z M5.978,3.301c0,0.107,0.005,0.2,0.017,0.28C6.005,3.66,6.022,3.727,6.047,3.78c0.024,0.053,0.056,0.093,0.095,0.119c0.04,0.027,0.087,0.04,0.144,0.04S6.391,3.927,6.431,3.9c0.04-0.026,0.072-0.066,0.097-0.119s0.044-0.119,0.055-0.199C6.595,3.502,6.6,3.408,6.6,3.301c0-0.106-0.005-0.2-0.017-0.279c-0.011-0.08-0.03-0.146-0.055-0.199S6.47,2.73,6.431,2.704c-0.04-0.026-0.088-0.04-0.145-0.04s-0.104,0.014-0.144,0.04C6.103,2.73,6.071,2.77,6.047,2.822S6.005,2.941,5.994,3.021C5.983,3.101,5.978,3.194,5.978,3.301z"/>
-				</g>
-				<g>
-					<path d="M0.194,1.584l0.572-1.385H0V0.022h0.956v0.155L0.392,1.584H0.194z"/>
-					<path d="M1.17,0.916c0-0.074,0.004-0.148,0.011-0.223c0.007-0.074,0.02-0.146,0.038-0.213c0.018-0.068,0.042-0.132,0.074-0.19c0.031-0.058,0.071-0.108,0.119-0.151c0.048-0.043,0.105-0.077,0.173-0.102C1.651,0.013,1.73,0,1.82,0c0.013,0,0.027,0,0.042,0.001S1.894,0.003,1.91,0.005s0.031,0.004,0.046,0.006c0.014,0.003,0.027,0.006,0.039,0.01v0.165C1.971,0.178,1.944,0.171,1.915,0.167C1.885,0.162,1.855,0.16,1.826,0.16c-0.061,0-0.115,0.008-0.161,0.023C1.619,0.198,1.579,0.22,1.544,0.248C1.511,0.275,1.482,0.309,1.46,0.347C1.437,0.386,1.418,0.428,1.404,0.475S1.379,0.571,1.373,0.624C1.366,0.677,1.362,0.731,1.36,0.788h0.012c0.013-0.025,0.03-0.05,0.049-0.072c0.02-0.022,0.042-0.041,0.068-0.058C1.515,0.643,1.543,0.63,1.576,0.62c0.032-0.009,0.068-0.014,0.108-0.014c0.064,0,0.123,0.011,0.175,0.031C1.911,0.659,1.956,0.69,1.992,0.73C2.028,0.771,2.057,0.821,2.077,0.88s0.03,0.126,0.03,0.201c0,0.081-0.011,0.154-0.032,0.219s-0.051,0.12-0.09,0.165c-0.04,0.045-0.087,0.08-0.143,0.104C1.787,1.593,1.725,1.605,1.655,1.605c-0.067,0-0.131-0.014-0.19-0.042c-0.059-0.027-0.111-0.07-0.154-0.127C1.268,1.38,1.233,1.308,1.208,1.222C1.183,1.136,1.17,1.034,1.17,0.916z M1.653,1.442c0.041,0,0.078-0.008,0.111-0.022c0.034-0.015,0.062-0.036,0.087-0.066c0.024-0.029,0.043-0.066,0.057-0.112c0.013-0.045,0.02-0.099,0.02-0.16c0-0.05-0.005-0.095-0.017-0.134C1.9,0.907,1.883,0.874,1.861,0.846c-0.022-0.027-0.05-0.049-0.084-0.063C1.743,0.767,1.704,0.76,1.66,0.76c-0.045,0-0.087,0.008-0.125,0.024S1.465,0.823,1.439,0.85S1.392,0.907,1.377,0.941S1.355,1.01,1.355,1.044c0,0.047,0.006,0.095,0.019,0.143c0.012,0.047,0.031,0.09,0.056,0.127c0.025,0.038,0.056,0.068,0.093,0.093C1.561,1.43,1.604,1.442,1.653,1.442z"/>
-					<path d="M2.756,0.626c0.067,0,0.129,0.01,0.188,0.029s0.108,0.049,0.151,0.087c0.043,0.039,0.077,0.086,0.101,0.144c0.024,0.057,0.037,0.122,0.037,0.197c0,0.081-0.011,0.154-0.035,0.219c-0.023,0.065-0.057,0.12-0.103,0.165S2.994,1.546,2.928,1.569c-0.067,0.024-0.144,0.036-0.23,0.036c-0.035,0-0.069-0.002-0.102-0.006C2.562,1.597,2.529,1.591,2.499,1.585c-0.031-0.007-0.06-0.016-0.088-0.026S2.358,1.535,2.335,1.521V1.337c0.022,0.017,0.048,0.031,0.079,0.044s0.062,0.023,0.095,0.032s0.066,0.016,0.1,0.02c0.034,0.005,0.064,0.007,0.093,0.007c0.054,0,0.102-0.006,0.144-0.02c0.042-0.013,0.078-0.033,0.107-0.062C2.981,1.331,3.004,1.296,3.02,1.254s0.023-0.092,0.023-0.149c0-0.102-0.03-0.18-0.089-0.233C2.894,0.817,2.807,0.79,2.693,0.79c-0.019,0-0.038,0.001-0.06,0.003S2.591,0.797,2.57,0.8C2.548,0.803,2.528,0.806,2.509,0.809c-0.02,0.004-0.036,0.007-0.05,0.01L2.367,0.757l0.056-0.734h0.701v0.177H2.583l-0.04,0.448c0.021-0.005,0.05-0.009,0.085-0.014C2.665,0.628,2.708,0.626,2.756,0.626z"/>
-					<path d="M4.374,1.584H3.447V1.417l0.356-0.406C3.854,0.953,3.899,0.9,3.939,0.853c0.04-0.048,0.074-0.095,0.102-0.14C4.069,0.667,4.09,0.621,4.105,0.575s0.022-0.096,0.022-0.15c0-0.042-0.006-0.079-0.018-0.11c-0.011-0.032-0.028-0.06-0.049-0.082C4.04,0.21,4.015,0.193,3.985,0.182C3.957,0.17,3.924,0.164,3.888,0.164c-0.064,0-0.122,0.014-0.174,0.042C3.662,0.233,3.612,0.268,3.565,0.311L3.462,0.184c0.027-0.025,0.056-0.05,0.087-0.072S3.614,0.069,3.65,0.054c0.036-0.017,0.074-0.029,0.114-0.039C3.804,0.005,3.846,0,3.89,0c0.065,0,0.124,0.01,0.176,0.029C4.119,0.048,4.164,0.075,4.2,0.111s0.065,0.08,0.085,0.132c0.02,0.052,0.03,0.109,0.03,0.175c0,0.061-0.009,0.118-0.027,0.173S4.245,0.699,4.214,0.753C4.182,0.806,4.145,0.858,4.101,0.912C4.057,0.966,4.01,1.021,3.959,1.079L3.673,1.398v0.008h0.701V1.584z"/>
-					<path d="M4.781,1.584l0.572-1.385H4.587V0.022h0.956v0.155L4.979,1.584H4.781z"/>
-					<path d="M6.715,1.584L6.552,1.101H5.999L5.833,1.584H5.643l0.546-1.568h0.173l0.547,1.568H6.715z M6.493,0.924L6.342,0.471C6.338,0.458,6.333,0.442,6.327,0.424S6.315,0.386,6.31,0.364C6.303,0.343,6.297,0.32,6.291,0.298C6.285,0.274,6.279,0.252,6.274,0.229c-0.005,0.022-0.01,0.045-0.016,0.068C6.251,0.321,6.246,0.344,6.239,0.366c-0.006,0.021-0.012,0.041-0.018,0.06C6.216,0.443,6.211,0.459,6.207,0.471L6.06,0.924H6.493z"/>
-				</g>
-			</g>
-
-			<g class="bottom-right-dot" stroke-width="0" transform="translate(67.8, 60.7)">
-				<circle cx="0.8" cy="0.8" r="1.6" fill="#EEEEEE"/>
-			</g>
-
-			<g class="separator-lines" fill="none" stroke="#EEEEEE" stroke-width="0.5" stroke-miterlimit="10">
-				<polyline points="14.511,57.605 21.511,57.605 21.511,0.605 14.511,0.605"/>
-				<polyline points="57.390,0.605 50.390,0.605 50.390,57.605 57.390,57.605"/>
-			</g>
-
-			<g class="pads" fill="none" stroke="#9A916C" stroke-width="1.5">
+			<g class="pads">
 				<g class="pads-left" transform="translate(0 0.322)">
-					<circle id="connector0pin" class="pad-rst" cx="3.6" cy="3.6"  r="2.05"/>
-					<circle id="connector1pin" class="pad-a0"  cx="3.6" cy="10.8" r="2.05"/>
-					<circle id="connector2pin" class="pad-d0"  cx="3.6" cy="18"   r="2.05"/>
-					<circle id="connector3pin" class="pad-d5"  cx="3.6" cy="25.2" r="2.05"/>
-					<circle id="connector4pin" class="pad-d6"  cx="3.6" cy="32.4" r="2.05"/>
-					<circle id="connector5pin" class="pad-d7"  cx="3.6" cy="39.6" r="2.05"/>
-					<circle id="connector6pin" class="pad-d8"  cx="3.6" cy="46.8" r="2.05"/>
-					<circle id="connector7pin" class="pad-3v3" cx="3.6" cy="54"   r="2.05"/>
+					<circle id="connector0pin" class="pad-rst" cx="3.6" cy="3.6"  r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector1pin" class="pad-a0"  cx="3.6" cy="10.8" r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector2pin" class="pad-d0"  cx="3.6" cy="18"   r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector3pin" class="pad-d5"  cx="3.6" cy="25.2" r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector4pin" class="pad-d6"  cx="3.6" cy="32.4" r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector5pin" class="pad-d7"  cx="3.6" cy="39.6" r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector6pin" class="pad-d8"  cx="3.6" cy="46.8" r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector7pin" class="pad-3v3" cx="3.6" cy="54"   r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
 				</g>
 				<g class="pads-right" transform="translate(64.8 0.322)">
-					<circle id="connector8pin" class="pad-5v"  cx="3.6" cy="54"   r="2.05"/>
-					<circle id="connector9pin" class="pad-g"   cx="3.6" cy="46.8" r="2.05"/>
-					<circle id="connector10pin" class="pad-d4" cx="3.6" cy="39.6" r="2.05"/>
-					<circle id="connector11pin" class="pad-d3" cx="3.6" cy="32.4" r="2.05"/>
-					<circle id="connector12pin" class="pad-d2" cx="3.6" cy="25.2" r="2.05"/>
-					<circle id="connector13pin" class="pad-d1" cx="3.6" cy="18"   r="2.05"/>
-					<circle id="connector14pin" class="pad-rx" cx="3.6" cy="10.8" r="2.05"/>
-					<circle id="connector15pin" class="pad-tx" cx="3.6" cy="3.6"  r="2.05"/>
+					<circle id="connector8pin"  class="pad-5v" cx="3.6" cy="54"   r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector9pin"  class="pad-g"  cx="3.6" cy="46.8" r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector10pin" class="pad-d4" cx="3.6" cy="39.6" r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector11pin" class="pad-d3" cx="3.6" cy="32.4" r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector12pin" class="pad-d2" cx="3.6" cy="25.2" r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector13pin" class="pad-d1" cx="3.6" cy="18"   r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector14pin" class="pad-rx" cx="3.6" cy="10.8" r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector15pin" class="pad-tx" cx="3.6" cy="3.6"  r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
 				</g>
 			</g>
 
-			<g class="pads" fill="none" stroke="#9A916C" stroke-width="1.5">
+			<g class="pads-proto">
 				<g class="pads-x1" transform="translate(7.2 0.322)">
-					<circle id="connector16pin" class="pad-x1-y10" cx="3.6" cy="68.4" r="2.05"/>
-					<circle id="connector17pin" class="pad-x1-y11" cx="3.6" cy="75.6" r="2.05"/>
+					<circle id="connector16pin" class="pad-x1-y10" cx="3.6" cy="68.4" r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector17pin" class="pad-x1-y11" cx="3.6" cy="75.6" r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
 				</g>
 				<g class="pads-x2" transform="translate(14.4 0.322)">
-					<circle id="connector18pin" class="pad-x2-y1"  cx="3.6" cy="3.6"  r="2.05"/>
-					<circle id="connector19pin" class="pad-x2-y2"  cx="3.6" cy="10.8" r="2.05"/>
-					<circle id="connector20pin" class="pad-x2-y3"  cx="3.6" cy="18"   r="2.05"/>
-					<circle id="connector21pin" class="pad-x2-y4"  cx="3.6" cy="25.2" r="2.05"/>
-					<circle id="connector22pin" class="pad-x2-y5"  cx="3.6" cy="32.4" r="2.05"/>
-					<circle id="connector23pin" class="pad-x2-y6"  cx="3.6" cy="39.6" r="2.05"/>
-					<circle id="connector24pin" class="pad-x2-y7"  cx="3.6" cy="46.8" r="2.05"/>
-					<circle id="connector25pin" class="pad-x2-y8"  cx="3.6" cy="54"   r="2.05"/>
-					<circle id="connector26pin" class="pad-x2-y9"  cx="3.6" cy="61.2" r="2.05"/>
-					<circle id="connector27pin" class="pad-x2-y10" cx="3.6" cy="68.4" r="2.05"/>
-					<circle id="connector28pin" class="pad-x2-y11" cx="3.6" cy="75.6" r="2.05"/>
+					<circle id="connector18pin" class="pad-x2-y1"  cx="3.6" cy="3.6"  r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector19pin" class="pad-x2-y2"  cx="3.6" cy="10.8" r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector20pin" class="pad-x2-y3"  cx="3.6" cy="18"   r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector21pin" class="pad-x2-y4"  cx="3.6" cy="25.2" r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector22pin" class="pad-x2-y5"  cx="3.6" cy="32.4" r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector23pin" class="pad-x2-y6"  cx="3.6" cy="39.6" r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector24pin" class="pad-x2-y7"  cx="3.6" cy="46.8" r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector25pin" class="pad-x2-y8"  cx="3.6" cy="54"   r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector26pin" class="pad-x2-y9"  cx="3.6" cy="61.2" r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector27pin" class="pad-x2-y10" cx="3.6" cy="68.4" r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector28pin" class="pad-x2-y11" cx="3.6" cy="75.6" r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
 				</g>
 				<g class="pads-x3" transform="translate(21.6 0.322)">
-					<circle id="connector29pin" class="pad-x3-y1"  cx="3.6" cy="3.6"  r="2.05"/>
-					<circle id="connector30pin" class="pad-x3-y2"  cx="3.6" cy="10.8" r="2.05"/>
-					<circle id="connector31pin" class="pad-x3-y3"  cx="3.6" cy="18"   r="2.05"/>
-					<circle id="connector32pin" class="pad-x3-y4"  cx="3.6" cy="25.2" r="2.05"/>
-					<circle id="connector33pin" class="pad-x3-y5"  cx="3.6" cy="32.4" r="2.05"/>
-					<circle id="connector34pin" class="pad-x3-y6"  cx="3.6" cy="39.6" r="2.05"/>
-					<circle id="connector35pin" class="pad-x3-y7"  cx="3.6" cy="46.8" r="2.05"/>
-					<circle id="connector36pin" class="pad-x3-y8"  cx="3.6" cy="54"   r="2.05"/>
-					<circle id="connector37pin" class="pad-x3-y9"  cx="3.6" cy="61.2" r="2.05"/>
-					<circle id="connector38pin" class="pad-x3-y10" cx="3.6" cy="68.4" r="2.05"/>
-					<circle id="connector39pin" class="pad-x3-y11" cx="3.6" cy="75.6" r="2.05"/>
+					<circle id="connector29pin" class="pad-x3-y1"  cx="3.6" cy="3.6"  r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector30pin" class="pad-x3-y2"  cx="3.6" cy="10.8" r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector31pin" class="pad-x3-y3"  cx="3.6" cy="18"   r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector32pin" class="pad-x3-y4"  cx="3.6" cy="25.2" r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector33pin" class="pad-x3-y5"  cx="3.6" cy="32.4" r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector34pin" class="pad-x3-y6"  cx="3.6" cy="39.6" r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector35pin" class="pad-x3-y7"  cx="3.6" cy="46.8" r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector36pin" class="pad-x3-y8"  cx="3.6" cy="54"   r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector37pin" class="pad-x3-y9"  cx="3.6" cy="61.2" r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector38pin" class="pad-x3-y10" cx="3.6" cy="68.4" r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector39pin" class="pad-x3-y11" cx="3.6" cy="75.6" r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
 				</g>
 				<g class="pads-x4" transform="translate(28.8 0.322)">
-					<circle id="connector40pin" class="pad-x4-y1"  cx="3.6" cy="3.6"  r="2.05"/>
-					<circle id="connector41pin" class="pad-x4-y2"  cx="3.6" cy="10.8" r="2.05"/>
-					<circle id="connector42pin" class="pad-x4-y3"  cx="3.6" cy="18"   r="2.05"/>
-					<circle id="connector43pin" class="pad-x4-y4"  cx="3.6" cy="25.2" r="2.05"/>
-					<circle id="connector44pin" class="pad-x4-y5"  cx="3.6" cy="32.4" r="2.05"/>
-					<circle id="connector45pin" class="pad-x4-y6"  cx="3.6" cy="39.6" r="2.05"/>
-					<circle id="connector46pin" class="pad-x4-y7"  cx="3.6" cy="46.8" r="2.05"/>
-					<circle id="connector47pin" class="pad-x4-y8"  cx="3.6" cy="54"   r="2.05"/>
-					<circle id="connector48pin" class="pad-x4-y9"  cx="3.6" cy="61.2" r="2.05"/>
-					<circle id="connector49pin" class="pad-x4-y10" cx="3.6" cy="68.4" r="2.05"/>
-					<circle id="connector50pin" class="pad-x4-y11" cx="3.6" cy="75.6" r="2.05"/>
+					<circle id="connector40pin" class="pad-x4-y1"  cx="3.6" cy="3.6"  r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector41pin" class="pad-x4-y2"  cx="3.6" cy="10.8" r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector42pin" class="pad-x4-y3"  cx="3.6" cy="18"   r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector43pin" class="pad-x4-y4"  cx="3.6" cy="25.2" r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector44pin" class="pad-x4-y5"  cx="3.6" cy="32.4" r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector45pin" class="pad-x4-y6"  cx="3.6" cy="39.6" r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector46pin" class="pad-x4-y7"  cx="3.6" cy="46.8" r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector47pin" class="pad-x4-y8"  cx="3.6" cy="54"   r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector48pin" class="pad-x4-y9"  cx="3.6" cy="61.2" r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector49pin" class="pad-x4-y10" cx="3.6" cy="68.4" r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector50pin" class="pad-x4-y11" cx="3.6" cy="75.6" r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
 				</g>
 				<g class="pads-x5" transform="translate(36 0.322)">
-					<circle id="connector51pin" class="pad-x5-y1"  cx="3.6" cy="3.6"  r="2.05"/>
-					<circle id="connector52pin" class="pad-x5-y2"  cx="3.6" cy="10.8" r="2.05"/>
-					<circle id="connector53pin" class="pad-x5-y3"  cx="3.6" cy="18"   r="2.05"/>
-					<circle id="connector54pin" class="pad-x5-y4"  cx="3.6" cy="25.2" r="2.05"/>
-					<circle id="connector55pin" class="pad-x5-y5"  cx="3.6" cy="32.4" r="2.05"/>
-					<circle id="connector56pin" class="pad-x5-y6"  cx="3.6" cy="39.6" r="2.05"/>
-					<circle id="connector57pin" class="pad-x5-y7"  cx="3.6" cy="46.8" r="2.05"/>
-					<circle id="connector58pin" class="pad-x5-y8"  cx="3.6" cy="54"   r="2.05"/>
-					<circle id="connector59pin" class="pad-x5-y9"  cx="3.6" cy="61.2" r="2.05"/>
-					<circle id="connector60pin" class="pad-x5-y10" cx="3.6" cy="68.4" r="2.05"/>
-					<circle id="connector61pin" class="pad-x5-y11" cx="3.6" cy="75.6" r="2.05"/>
+					<circle id="connector51pin" class="pad-x5-y1"  cx="3.6" cy="3.6"  r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector52pin" class="pad-x5-y2"  cx="3.6" cy="10.8" r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector53pin" class="pad-x5-y3"  cx="3.6" cy="18"   r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector54pin" class="pad-x5-y4"  cx="3.6" cy="25.2" r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector55pin" class="pad-x5-y5"  cx="3.6" cy="32.4" r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector56pin" class="pad-x5-y6"  cx="3.6" cy="39.6" r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector57pin" class="pad-x5-y7"  cx="3.6" cy="46.8" r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector58pin" class="pad-x5-y8"  cx="3.6" cy="54"   r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector59pin" class="pad-x5-y9"  cx="3.6" cy="61.2" r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector60pin" class="pad-x5-y10" cx="3.6" cy="68.4" r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector61pin" class="pad-x5-y11" cx="3.6" cy="75.6" r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
 				</g>
 				<g class="pads-x6" transform="translate(43.2 0.322)">
-					<circle id="connector62pin" class="pad-x6-y1"  cx="3.6" cy="3.6"  r="2.05"/>
-					<circle id="connector63pin" class="pad-x6-y2"  cx="3.6" cy="10.8" r="2.05"/>
-					<circle id="connector64pin" class="pad-x6-y3"  cx="3.6" cy="18"   r="2.05"/>
-					<circle id="connector65pin" class="pad-x6-y4"  cx="3.6" cy="25.2" r="2.05"/>
-					<circle id="connector66pin" class="pad-x6-y5"  cx="3.6" cy="32.4" r="2.05"/>
-					<circle id="connector67pin" class="pad-x6-y6"  cx="3.6" cy="39.6" r="2.05"/>
-					<circle id="connector68pin" class="pad-x6-y7"  cx="3.6" cy="46.8" r="2.05"/>
-					<circle id="connector69pin" class="pad-x6-y8"  cx="3.6" cy="54"   r="2.05"/>
-					<circle id="connector70pin" class="pad-x6-y9"  cx="3.6" cy="61.2" r="2.05"/>
-					<circle id="connector71pin" class="pad-x6-y10" cx="3.6" cy="68.4" r="2.05"/>
-					<circle id="connector72pin" class="pad-x6-y11" cx="3.6" cy="75.6" r="2.05"/>
+					<circle id="connector62pin" class="pad-x6-y1"  cx="3.6" cy="3.6"  r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector63pin" class="pad-x6-y2"  cx="3.6" cy="10.8" r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector64pin" class="pad-x6-y3"  cx="3.6" cy="18"   r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector65pin" class="pad-x6-y4"  cx="3.6" cy="25.2" r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector66pin" class="pad-x6-y5"  cx="3.6" cy="32.4" r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector67pin" class="pad-x6-y6"  cx="3.6" cy="39.6" r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector68pin" class="pad-x6-y7"  cx="3.6" cy="46.8" r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector69pin" class="pad-x6-y8"  cx="3.6" cy="54"   r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector70pin" class="pad-x6-y9"  cx="3.6" cy="61.2" r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector71pin" class="pad-x6-y10" cx="3.6" cy="68.4" r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector72pin" class="pad-x6-y11" cx="3.6" cy="75.6" r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
 				</g>
 				<g class="pads-x7" transform="translate(50.4 0.322)">
-					<circle id="connector73pin" class="pad-x7-y1"  cx="3.6" cy="3.6"  r="2.05"/>
-					<circle id="connector74pin" class="pad-x7-y2"  cx="3.6" cy="10.8" r="2.05"/>
-					<circle id="connector75pin" class="pad-x7-y3"  cx="3.6" cy="18"   r="2.05"/>
-					<circle id="connector76pin" class="pad-x7-y4"  cx="3.6" cy="25.2" r="2.05"/>
-					<circle id="connector77pin" class="pad-x7-y5"  cx="3.6" cy="32.4" r="2.05"/>
-					<circle id="connector78pin" class="pad-x7-y6"  cx="3.6" cy="39.6" r="2.05"/>
-					<circle id="connector79pin" class="pad-x7-y7"  cx="3.6" cy="46.8" r="2.05"/>
-					<circle id="connector80pin" class="pad-x7-y8"  cx="3.6" cy="54"   r="2.05"/>
-					<circle id="connector81pin" class="pad-x7-y9"  cx="3.6" cy="61.2" r="2.05"/>
-					<circle id="connector82pin" class="pad-x7-y10" cx="3.6" cy="68.4" r="2.05"/>
-					<circle id="connector83pin" class="pad-x7-y11" cx="3.6" cy="75.6" r="2.05"/>
+					<circle id="connector73pin" class="pad-x7-y1"  cx="3.6" cy="3.6"  r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector74pin" class="pad-x7-y2"  cx="3.6" cy="10.8" r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector75pin" class="pad-x7-y3"  cx="3.6" cy="18"   r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector76pin" class="pad-x7-y4"  cx="3.6" cy="25.2" r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector77pin" class="pad-x7-y5"  cx="3.6" cy="32.4" r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector78pin" class="pad-x7-y6"  cx="3.6" cy="39.6" r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector79pin" class="pad-x7-y7"  cx="3.6" cy="46.8" r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector80pin" class="pad-x7-y8"  cx="3.6" cy="54"   r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector81pin" class="pad-x7-y9"  cx="3.6" cy="61.2" r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector82pin" class="pad-x7-y10" cx="3.6" cy="68.4" r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector83pin" class="pad-x7-y11" cx="3.6" cy="75.6" r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
 				</g>
 				<g class="pads-x8" transform="translate(57.6 0.322)">
-					<circle id="connector84pin" class="pad-x8-y9"  cx="3.6" cy="61.2" r="2.05"/>
-					<circle id="connector85pin" class="pad-x8-y10" cx="3.6" cy="68.4" r="2.05"/>
-					<circle id="connector86pin" class="pad-x8-y11" cx="3.6" cy="75.6" r="2.05"/>
+					<circle id="connector84pin" class="pad-x8-y9"  cx="3.6" cy="61.2" r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector85pin" class="pad-x8-y10" cx="3.6" cy="68.4" r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector86pin" class="pad-x8-y11" cx="3.6" cy="75.6" r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
 				</g>
 				<g class="pads-x9" transform="translate(64.8 0.322)">
-					<circle id="connector87pin" class="pad-x9-y10" cx="3.6" cy="68.4" r="2.05"/>
-					<circle id="connector88pin" class="pad-x9-y11" cx="3.6" cy="75.6" r="2.05"/>
+					<circle id="connector87pin" class="pad-x9-y10" cx="3.6" cy="68.4" r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
+					<circle id="connector88pin" class="pad-x9-y11" cx="3.6" cy="75.6" r="2.05" fill="none" stroke="#9A916C" stroke-width="1.5"/>
 				</g>
 			</g>
 		</g>
 	</g>
 </g>
-
 </svg>

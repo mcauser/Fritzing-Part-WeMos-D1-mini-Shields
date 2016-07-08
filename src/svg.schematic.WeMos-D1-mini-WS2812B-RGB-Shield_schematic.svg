@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny" x="0in" y="0in" width="1.3in" height="1.1in" viewBox="0 0 33.02 27.94">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0in" y="0in"
+	 viewBox="0 0 33.02 27.94" width="1.3in" height="1.1in">
 <g id="schematic">
 
 	<rect class="interior rect" x="5.23875" y="0.15875" width="22.5425" height="27.6225" fill="#FFFFFF" stroke="#000000" stroke-width="0.3175" stroke-linecap="round" />
@@ -39,7 +40,7 @@
 				<text x="5.69736" y="23.1069" fill="#8c8c8c">3V3</text>
 				<rect id="connector7terminal" x="-0.123472" y="22.7365" width="0.246944" height="0.246944" />
 			</g>
-			<g class="right" text-anchor="end">
+			<g class="pins-right" text-anchor="end">
 				<line id="connector8pin" x1="27.8165" y1="22.86" x2="32.8965" y2="22.86" stroke="#787878" stroke-width="0.246944" />
 				<text x="27.3226" y="23.1069" fill="#8c8c8c">5V</text>
 				<rect id="connector8terminal" x="32.8965" y="22.7365" width="0.246944" height="0.246944" />
@@ -74,9 +75,9 @@
 			</g>
 		</g>
 
-		<g fill="#000000" font-size="1.49931">
-			<text x="16.52" y="13.5" text-anchor="middle">WeMos D1 mini</text>
-			<text x="16.52" y="15.5" text-anchor="middle">WS2812B RGB Shield</text>
+		<g fill="#000000" font-size="1.49931" text-anchor="middle">
+			<text x="16.52" y="13.5">WeMos D1 mini</text>
+			<text x="16.52" y="15.5">WS2812B RGB Shield</text>
 		</g>
 	</g>
 </g>

@@ -73,11 +73,19 @@
 				<text x="27.3226" y="5.3269" fill="#8c8c8c">TX</text>
 				<rect id="connector15terminal" x="32.8965" y="4.9565" width="0.246944" height="0.246944" />
 			</g>
+			<g class="pins-relay">
+				<line id="connector16pin" x1="0.123472" y1="2.54" x2="5.20347" y2="2.54" stroke="none" stroke-width="0" />
+				<rect id="connector16terminal" x="-0.123472" y="2.4165" width="0.246944" height="0.246944" />
+				<line id="connector17pin" x1="0.123472" y1="2.54" x2="5.20347" y2="2.54" stroke="none" stroke-width="0" />
+				<rect id="connector17terminal" x="-0.123472" y="2.4165" width="0.246944" height="0.246944" />
+				<line id="connector18pin" x1="0.123472" y1="2.54" x2="5.20347" y2="2.54" stroke="none" stroke-width="0" />
+				<rect id="connector18terminal" x="-0.123472" y="2.4165" width="0.246944" height="0.246944" />
+			</g>
 		</g>
 
 		<g fill="#000000" font-size="1.49931" text-anchor="middle">
 			<text x="16.52" y="13.5">WeMos D1 mini</text>
-			<text x="16.52" y="15.5">1 Button Shield</text>
+			<text x="16.52" y="15.5">Relay Shield V2</text>
 		</g>
 	</g>
 </g>

@@ -1406,69 +1406,69 @@
  </connectors>
  <buses>
   <bus id="rst-x2">
-   <nodeMember connectorId='rst'/>
-   <nodeMember connectorId='x2-y1'/>
+   <nodeMember connectorId="rst"/>
+   <nodeMember connectorId="x2-y1"/>
   </bus>
   <bus id="a0-x2">
-   <nodeMember connectorId='a0'/>
-   <nodeMember connectorId='x2-y2'/>
+   <nodeMember connectorId="a0"/>
+   <nodeMember connectorId="x2-y2"/>
   </bus>
   <bus id="d0-x2">
-   <nodeMember connectorId='d0'/>
-   <nodeMember connectorId='x2-y3'/>
+   <nodeMember connectorId="d0"/>
+   <nodeMember connectorId="x2-y3"/>
   </bus>
   <bus id="d5-x2">
-   <nodeMember connectorId='d5'/>
-   <nodeMember connectorId='x2-y4'/>
+   <nodeMember connectorId="d5"/>
+   <nodeMember connectorId="x2-y4"/>
   </bus>
   <bus id="d6-x2">
-   <nodeMember connectorId='d6'/>
-   <nodeMember connectorId='x2-y5'/>
+   <nodeMember connectorId="d6"/>
+   <nodeMember connectorId="x2-y5"/>
   </bus>
   <bus id="d7-x2">
-   <nodeMember connectorId='d7'/>
-   <nodeMember connectorId='x2-y6'/>
+   <nodeMember connectorId="d7"/>
+   <nodeMember connectorId="x2-y6"/>
   </bus>
   <bus id="d8-x2">
-   <nodeMember connectorId='d8'/>
-   <nodeMember connectorId='x2-y7'/>
+   <nodeMember connectorId="d8"/>
+   <nodeMember connectorId="x2-y7"/>
   </bus>
   <bus id="3v3-x2">
-   <nodeMember connectorId='3v3'/>
-   <nodeMember connectorId='x2-y8'/>
+   <nodeMember connectorId="3v3"/>
+   <nodeMember connectorId="x2-y8"/>
   </bus>
 
   <bus id="5v-x7">
-   <nodeMember connectorId='5v'/>
-   <nodeMember connectorId='x7-y8'/>
+   <nodeMember connectorId="5v"/>
+   <nodeMember connectorId="x7-y8"/>
   </bus>
   <bus id="g-x7">
-   <nodeMember connectorId='g'/>
-   <nodeMember connectorId='x7-y7'/>
+   <nodeMember connectorId="g"/>
+   <nodeMember connectorId="x7-y7"/>
   </bus>
   <bus id="d4-x7">
-   <nodeMember connectorId='d4'/>
-   <nodeMember connectorId='x7-y6'/>
+   <nodeMember connectorId="d4"/>
+   <nodeMember connectorId="x7-y6"/>
   </bus>
   <bus id="d3-x7">
-   <nodeMember connectorId='d3'/>
-   <nodeMember connectorId='x7-y5'/>
+   <nodeMember connectorId="d3"/>
+   <nodeMember connectorId="x7-y5"/>
   </bus>
   <bus id="d2-x7">
-   <nodeMember connectorId='d2'/>
-   <nodeMember connectorId='x7-y4'/>
+   <nodeMember connectorId="d2"/>
+   <nodeMember connectorId="x7-y4"/>
   </bus>
   <bus id="d1-x7">
-   <nodeMember connectorId='d1'/>
-   <nodeMember connectorId='x7-y3'/>
+   <nodeMember connectorId="d1"/>
+   <nodeMember connectorId="x7-y3"/>
   </bus>
   <bus id="rx-x7">
-   <nodeMember connectorId='rx'/>
-   <nodeMember connectorId='x7-y2'/>
+   <nodeMember connectorId="rx"/>
+   <nodeMember connectorId="x7-y2"/>
   </bus>
   <bus id="tx-x7">
-   <nodeMember connectorId='tx'/>
-   <nodeMember connectorId='x7-y1'/>
+   <nodeMember connectorId="tx"/>
+   <nodeMember connectorId="x7-y1"/>
   </bus>
  </buses>
 </module>

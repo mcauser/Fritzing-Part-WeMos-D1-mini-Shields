@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 72.567 80.267" width="2.56cm" height="2.83cm" xml:space="preserve">
+	 viewBox="0 0 72.567 96.945" width="2.56cm" height="3.42cm" xml:space="preserve">
 <g id="silkscreen">
 
 	<g class="PCB" stroke="none" stroke-width="0" fill="#000000">
-		<path class="board-outline" d="M71.559,0.5c0.322,0,0.499,0.177,0.499,0.499v77.21c0,0.826-0.672,1.498-1.498,1.498H7.634c-0.826,0-1.498-0.672-1.498-1.498v-17.18c0-0.406-0.221-0.769-0.591-0.953l-4.979-2.291c-0.021-0.011-0.023-0.04-0.023-0.053V0.998C0.542,0.677,0.719,0.5,1.04,0.5H71.559 M71.559,0H1.04c-0.6,0-0.998,0.4-0.998,0.998v56.734c0,0.2,0.1,0.4,0.3,0.5l4.994,2.298c0.2,0.1,0.3,0.3,0.3,0.5v17.18c0,1.098,0.898,1.998,1.998,1.998H70.56c1.098,0,1.998-0.898,1.998-1.998V0.998C72.558,0.4,72.158,0,71.559,0L71.559,0z"/>
+		<path class="board-outline" d="M71.517,0H0.998C0.398,0,0,0.4,0,0.998v56.734c0,0.2,0.1,0.4,0.3,0.5l4.994,2.298c0.2,0.1,0.3,0.3,0.3,0.5v33.917c0,1.098,0.898,1.998,1.998,1.998h62.926c1.098,0,1.998-0.898,1.998-1.998V0.998C72.516,0.4,72.116,0,71.517,0z M72.016,94.946c0,0.826-0.672,1.498-1.498,1.498H7.592c-0.826,0-1.498-0.672-1.498-1.498V61.029c0-0.406-0.221-0.769-0.591-0.953l-4.979-2.291c-0.021-0.011-0.023-0.04-0.023-0.053V0.998C0.5,0.677,0.677,0.5,0.998,0.5h70.519c0.322,0,0.499,0.177,0.499,0.499V94.946z"/>
 	</g>
 
 	<g font-family="'Droid Sans'" font-size="4" text-anchor="middle" fill="#000000" stroke="none" stroke-width="0" stroke-linecap="round">
 		<text x="36.2835" y="27">WeMos D1 mini</text>
-		<text x="36.2835" y="34">OLED Shield</text>
+		<text x="36.2835" y="34">Relay Shield</text>
 	</g>
 
 	<g transform="translate(0.2835 0)">
@@ -68,7 +68,7 @@
 			</g>
 		</g>
 
-		<g class="bottom-right-dot" stroke-width="0" transform="translate(67.8 76)">
+		<g class="bottom-right-dot" stroke-width="0" transform="translate(67.8 93)">
 			<circle cx="0.8" cy="0.8" r="1.6" fill="#000000"/>
 		</g>
 	</g>
