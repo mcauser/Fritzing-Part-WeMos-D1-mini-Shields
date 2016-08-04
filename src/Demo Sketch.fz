@@ -387,10 +387,51 @@
                 <breadboardView layer="breadboard">
                     <geometry z="2.50011" x="-63.357" y="-136.959"/>
                 </breadboardView>
+                <pcbView layer="">
+                    <geometry z="0.5" x="-17.021" y="-0.361"/>
+                </pcbView>
+                <schematicView layer="">
+                    <geometry z="0.5" x="160.667" y="-24.1"/>
+                </schematicView>
+            </views>
+        </instance>
+        <instance moduleIdRef="WeMos_D1_Mini_Motor_Shield_no_headers" modelIndex="6929" path="/Users/mike/Documents/Fritzing/parts/user/WeMos-D1-mini-Motor-Shield-no-headers.fzp">
+            <title>WeMos D1 Mini Motor Shield1</title>
+            <views>
+                <breadboardView layer="breadboard">
+                    <geometry z="3.0002" x="76.1456" y="40.1369"/>
+                </breadboardView>
+                <schematicView layer="schematic">
+                    <geometry z="3.00019" x="351" y="134.687"/>
+                    <titleGeometry visible="false" x="495" y="127.687" z="7.0002" xOffset="144" yOffset="-7" textColor="#000000" fontSize="5">
+                        <displayKey key=""/>
+                        <displayKey key="part number"/>
+                    </titleGeometry>
+                </schematicView>
+                <pcbView layer="copper0">
+                    <geometry z="6.0002" x="526.146" y="206.637"/>
+                    <titleGeometry visible="false" x="616.854" y="199.637" z="13.0002" xOffset="90.7087" yOffset="-7" textColor="#000000" fontSize="5">
+                        <displayKey key=""/>
+                    </titleGeometry>
+                </pcbView>
+            </views>
+        </instance>
+        <instance moduleIdRef="BreadboardLogoTextModuleID" modelIndex="6932" path=":/resources/parts/core/breadboardlogotext.fzp">
+            <property name="logo" value="Motor Shield"/>
+            <property name="color" value="#787878"/>
+            <property name="width" value="38.865985846153841"/>
+            <property name="height" value="4.2104817999999993"/>
+            <property name="shape" value="&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; height=&quot;0.165767in&quot; width=&quot;1.53016in&quot; viewBox=&quot;0 0 120 13&quot; &gt;&#10; &lt;g id=&quot;breadboard&quot;&gt;&#10;  &lt;text y=&quot;9&quot; stroke-width=&quot;0&quot; font-size=&quot;10&quot; xml:space=&quot;preserve&quot; id=&quot;label&quot; text-anchor=&quot;middle&quot; fill=&quot;#787878&quot; x=&quot;60&quot; font-family=&quot;Droid Sans&quot;&gt;Motor Shield&lt;/text&gt;&#10; &lt;/g&gt;&#10;&lt;/svg&gt;&#10;"/>
+            <property name="lastfilename" value=":/resources/parts/svg/core/breadboard/breadboardlogo.svg"/>
+            <title>TXT11</title>
+            <views>
+                <breadboardView layer="breadboard">
+                    <geometry z="2.50013" x="53.0901" y="17.2467"/>
+                </breadboardView>
                 <schematicView layer="icon">
                     <geometry z="0" x="160.667" y="-24.1"/>
                 </schematicView>
-                <pcbView layer="">
+                <pcbView layer="icon">
                     <geometry z="0" x="-17.021" y="-0.361"/>
                 </pcbView>
             </views>
