@@ -27,6 +27,7 @@ Fritzing parts for WeMos D1 Mini Shields
 - [ ] [DHT Shield](http://www.wemos.cc/Products/dht_shield.html)
 - [x] [Dual Base Shield](http://www.wemos.cc/)
 - [x] [Micro SD Shield](http://www.wemos.cc/Products/micro_sd_shield.html)
+- [x] [Motor Shield](http://www.wemos.cc/Products/motor_shield.html)
 - [x] [OLED Shield](http://www.wemos.cc/Products/oled_shield.html)
 - [x] [ProtoBoard Shield](http://www.wemos.cc/Products/protoboard_shield.html)
 - [x] [Relay Shield V2](http://www.wemos.cc/Products/relay_shield_v2.html)
